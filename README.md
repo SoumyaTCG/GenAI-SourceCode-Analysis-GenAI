@@ -22,7 +22,7 @@ conda activate llmapp
 
 ### STEP 02- install the requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt #-r here means readin gline by line
 ```
 
 
